@@ -12,7 +12,6 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class BasePage {
 
-    public static WebDriver driver;
     private static ThreadLocal<WebDriver> driverPool = new ThreadLocal<>();
 
     public BasePage(){

@@ -40,7 +40,7 @@ public class MessengerSD {
     @Then("^I verify invalid login message on sign in page$")
     public void verifySignInErrorMessage() {
 
-        Assert.assertEquals(messengerPage.getErrorMessage(), "Incorre Email");
+        Assert.assertEquals(messengerPage.getErrorMessage(), "Incorrect Email");
 
     }
 }
