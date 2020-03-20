@@ -4,3 +4,4 @@
 * Drivers are defined under the BasePage
 * BasePage can be communicated with ConfigReader
 * ConfigReader communicates with config.properties and SharedSD Hook class under the StepDefinition
+* Common methods are defined under the Element Util class
