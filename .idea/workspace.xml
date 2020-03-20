@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15053382-cef2-47c5-9246-7b1ecdd630e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="186" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZN2tqygHImCJeINN9uFm6iIMde" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify invalid login from mesenger page">
+    <configuration name="Scenario: Verify invalid login from mesenger page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Messenger.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="CucumberMarch_2020" />
+      <option name="NAME_FILTER" value="^Verify invalid login from mesenger page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify invalid login from mesenger page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify invalid login from mesenger page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberMarch_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login from mesenger page" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15053382-cef2-47c5-9246-7b1ecdd630e6" name="Default Changelist" comment="" />
+      <created>1584665449153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584665449153</updated>
+      <workItem from="1584665452093" duration="18218000" />
+      <workItem from="1584684662499" duration="478000" />
+      <workItem from="1584685169706" duration="1133000" />
+      <workItem from="1584686337922" duration="150000" />
+      <workItem from="1584686491292" duration="1210000" />
+      <workItem from="1584687718598" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1602" height="234" key="GridCell.Tab.0.bottom" timestamp="1584687822306">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1602" height="234" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1584687822306" />
+    <state width="1602" height="234" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584682322455" />
+    <state width="1602" height="234" key="GridCell.Tab.0.center" timestamp="1584687822306">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1602" height="234" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1584687822306" />
+    <state width="1602" height="234" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584682322454" />
+    <state width="1602" height="234" key="GridCell.Tab.0.left" timestamp="1584687822305">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1602" height="234" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1584687822305" />
+    <state width="1602" height="234" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584682322454" />
+    <state width="1602" height="234" key="GridCell.Tab.0.right" timestamp="1584687822306">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="1602" height="234" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1584687822306" />
+    <state width="1602" height="234" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584682322454" />
+    <state x="344" y="147" key="SettingsEditor" timestamp="1584684811052">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="344" y="147" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1584684811052" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CucumberMarch_2020$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1584676741540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>runnerTest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
