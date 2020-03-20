@@ -163,15 +163,21 @@ public class ElementUtil {
         js.executeScript(str);
     }
 
-
-
-
-
+    /**
+     * MoveToElement Actions class
+     * @param locator
+     */
     public void moveToElement(By locator){
         Actions actions = new Actions(BasePage.get());
         actions.moveToElement(webAction(locator)).build().perform();
     }
 
+    /**
+     * GetScreenShot method
+     * If test is failed use this method under the hook after
+     * @param name
+     * @return
+     */
     public String getScreenShot(String name){
         SimpleDateFormat df = new SimpleDateFormat("-yyyy-MM-dd-HH-mm");
         String date = df.format(new Date());

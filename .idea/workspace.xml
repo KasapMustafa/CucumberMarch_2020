@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15053382-cef2-47c5-9246-7b1ecdd630e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/MessengerSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/MessengerSD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinition/MessengerSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinition/MessengerSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/ElementUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/webPages/ElementUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +100,7 @@
       <workItem from="1584686491292" duration="1210000" />
       <workItem from="1584687718598" duration="344000" />
       <workItem from="1584688152099" duration="183000" />
-      <workItem from="1584717538381" duration="129000" />
+      <workItem from="1584717538381" duration="371000" />
     </task>
     <servers />
   </component>
